@@ -23,6 +23,7 @@ Today I tackled the automation side of the animated Olympic medal chart race usi
 🕒 Given the 1–2 hour daily time limit I set for these projects, polishing the design and visual details is currently out of scope — but the core functionality is there and working!
 
 📁 Dataset: Olympic medals by country (via Kaggle)
+
 📂 Files on GitHub: 🔗 https://github.com/elem86/day5
 
 https://www.loom.com/share/3213976c6f3948898098ca583cdc538b?sid=d3dec7a2-3325-49be-86a9-eb2f2d88767a
